@@ -1,4 +1,4 @@
-# TP1: Avaliação de Sistema - [Nome do Sistema]
+# TP1: Avaliação de Sistema - [Simulador de Urna Eletrônica (TSE)]
 
 **Disciplina:** Interação Humano-Computador (IHC)  
 **Instituição:** Universidade Federal do Amazonas (UFAM / ICET)  
