@@ -76,14 +76,14 @@
 
 | Tarefa | Tempo (em segundos) | Resultado da tarefa | Erros | Observações |
 | :--- | :--- | :--- | :--- | :--- |
-| M1: Iniciar simulação | [Tempo] | [✓, !, ou X] | [Qtd] | [Suas notas] |
-| M2: Ativar áudio | [Tempo] | [✓, !, ou X] | [Qtd] | [Suas notas] |
-| M3: Abrir colinha | [Tempo] | [✓, !, ou X] | [Qtd] | [Suas notas] |
-| M4: Votar Dep. Federal | [Tempo] | [✓, !, ou X] | [Qtd] | [Suas notas] |
-| M5: Corrigir Dep. Estadual | [Tempo] | [✓, !, ou X] | [Qtd] | [Suas notas] |
-| M6: Votar em Branco (Senador) | [Tempo] | [✓, !, ou X] | [Qtd] | [Suas notas] |
-| M7: Votar Nulo (Governador) | [Tempo] | [✓, !, ou X] | [Qtd] | [Suas notas] |
-| M8: Votar Presidente e Fim | [Tempo] | [✓, !, ou X] | [Qtd] | [Suas notas] |
+| M1: Iniciar simulação | 80 |  ! | 1 | Teve dificuldade de saber aonde clicar, e o site demorou pra carregar |
+| M2: Ativar áudio | 8 | X | 1 | Não encontrou o botão de ativar áudio, e nem sabia da funcionalidade |
+| M3: Abrir colinha | 146 | ! | 4 | Teve muita dificuldade com a colinha, pois não sabia como corrigir somente um erro e além disso não entendeu o sistema de colinha |
+| M4: Votar Dep. Federal | 63 | ✓ | 0 | Demorou devido carregamento do site |
+| M5: Corrigir Dep. Estadual | 14 | X | 1 | Não corrigiu e seguiu adiante |
+| M6: Votar em Branco (Senador) | 22 | X | 2 | Não conseguiu votar em branco pois não entendeu o sistema |
+| M7: Votar Nulo (Governador) | 41 | ! | 1 | Não entendeu como iria registrar o voto nulo, mas no fim conseguiu |
+| M8: Votar Presidente e Fim | 21 | ✓ | 1 | Teve êxito na etapa |
 
 **Participante P06**
 
