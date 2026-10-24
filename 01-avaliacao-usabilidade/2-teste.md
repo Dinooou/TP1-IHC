@@ -15,17 +15,155 @@
 *Figura 1 - Participante durante a realização do teste.*
 
 ## 4. Análise dos Resultados
+
 ### Resultados por participante
-[Inserir tabela e explicação]
+
+[Breve explicação: As tabelas abaixo detalham o desempenho individual de cada um dos 8 participantes nas tarefas propostas, incluindo o tempo de execução e os erros cometidos.]
+
+**Participante P01**
+
+| Tarefa | Tempo (em segundos) | Resultado da tarefa | Erros | Observações |
+| :--- | :--- | :--- | :--- | :--- |
+| M1: Iniciar simulação | 10 | ✓ | 1 | O usuário iniciou tranquilamente |
+| M2: Ativar áudio | 15 | X | 3 | O usuário não conseguiu ativar o áudio e não achou a opção |
+| M3: Abrir colinha | 34 | ! | 2 | O usuário demorou pra entender a colinha |
+| M4: Votar Dep. Federal | 82 | ✓ | 2 | O usuário teve uma breve confusão sobre o cargo, mas rapidamente sanada |
+| M5: Corrigir Dep. Estadual | 32 | ! | 1 | O usuário sentiu dificuldade em corrigir |
+| M6: Votar em Branco (Senador) | 50 | ! | 3 | O usuário sentiu dificuldade com a relação de ter de votar em dois senadores, pois o sistema evidencia pouco |
+| M7: Votar Nulo (Governador) | 56 | ! | 1 | O usuário sentiu dificuldade em entender que o voto registrado pelo número seria nulo |
+| M8: Votar Presidente e Fim | 14 | ✓ | 0 | O usuário teve êxito |
+
+**Participante P02**
+
+| Tarefa | Tempo (em segundos) | Resultado da tarefa | Erros | Observações |
+| :--- | :--- | :--- | :--- | :--- |
+| M1: Iniciar simulação | [Tempo] | [✓, !, ou X] | [Qtd] | [Suas notas] |
+| M2: Ativar áudio | [Tempo] | [✓, !, ou X] | [Qtd] | [Suas notas] |
+| M3: Abrir colinha | [Tempo] | [✓, !, ou X] | [Qtd] | [Suas notas] |
+| M4: Votar Dep. Federal | [Tempo] | [✓, !, ou X] | [Qtd] | [Suas notas] |
+| M5: Corrigir Dep. Estadual | [Tempo] | [✓, !, ou X] | [Qtd] | [Suas notas] |
+| M6: Votar em Branco (Senador) | [Tempo] | [✓, !, ou X] | [Qtd] | [Suas notas] |
+| M7: Votar Nulo (Governador) | [Tempo] | [✓, !, ou X] | [Qtd] | [Suas notas] |
+| M8: Votar Presidente e Fim | [Tempo] | [✓, !, ou X] | [Qtd] | [Suas notas] |
+
+**Participante P03**
+
+| Tarefa | Tempo (em segundos) | Resultado da tarefa | Erros | Observações |
+| :--- | :--- | :--- | :--- | :--- |
+| M1: Iniciar simulação | [Tempo] | [✓, !, ou X] | [Qtd] | [Suas notas] |
+| M2: Ativar áudio | [Tempo] | [✓, !, ou X] | [Qtd] | [Suas notas] |
+| M3: Abrir colinha | [Tempo] | [✓, !, ou X] | [Qtd] | [Suas notas] |
+| M4: Votar Dep. Federal | [Tempo] | [✓, !, ou X] | [Qtd] | [Suas notas] |
+| M5: Corrigir Dep. Estadual | [Tempo] | [✓, !, ou X] | [Qtd] | [Suas notas] |
+| M6: Votar em Branco (Senador) | [Tempo] | [✓, !, ou X] | [Qtd] | [Suas notas] |
+| M7: Votar Nulo (Governador) | [Tempo] | [✓, !, ou X] | [Qtd] | [Suas notas] |
+| M8: Votar Presidente e Fim | [Tempo] | [✓, !, ou X] | [Qtd] | [Suas notas] |
+
+**Participante P04**
+
+| Tarefa | Tempo (em segundos) | Resultado da tarefa | Erros | Observações |
+| :--- | :--- | :--- | :--- | :--- |
+| M1: Iniciar simulação | [Tempo] | [✓, !, ou X] | [Qtd] | [Suas notas] |
+| M2: Ativar áudio | [Tempo] | [✓, !, ou X] | [Qtd] | [Suas notas] |
+| M3: Abrir colinha | [Tempo] | [✓, !, ou X] | [Qtd] | [Suas notas] |
+| M4: Votar Dep. Federal | [Tempo] | [✓, !, ou X] | [Qtd] | [Suas notas] |
+| M5: Corrigir Dep. Estadual | [Tempo] | [✓, !, ou X] | [Qtd] | [Suas notas] |
+| M6: Votar em Branco (Senador) | [Tempo] | [✓, !, ou X] | [Qtd] | [Suas notas] |
+| M7: Votar Nulo (Governador) | [Tempo] | [✓, !, ou X] | [Qtd] | [Suas notas] |
+| M8: Votar Presidente e Fim | [Tempo] | [✓, !, ou X] | [Qtd] | [Suas notas] |
+
+**Participante P05**
+
+| Tarefa | Tempo (em segundos) | Resultado da tarefa | Erros | Observações |
+| :--- | :--- | :--- | :--- | :--- |
+| M1: Iniciar simulação | [Tempo] | [✓, !, ou X] | [Qtd] | [Suas notas] |
+| M2: Ativar áudio | [Tempo] | [✓, !, ou X] | [Qtd] | [Suas notas] |
+| M3: Abrir colinha | [Tempo] | [✓, !, ou X] | [Qtd] | [Suas notas] |
+| M4: Votar Dep. Federal | [Tempo] | [✓, !, ou X] | [Qtd] | [Suas notas] |
+| M5: Corrigir Dep. Estadual | [Tempo] | [✓, !, ou X] | [Qtd] | [Suas notas] |
+| M6: Votar em Branco (Senador) | [Tempo] | [✓, !, ou X] | [Qtd] | [Suas notas] |
+| M7: Votar Nulo (Governador) | [Tempo] | [✓, !, ou X] | [Qtd] | [Suas notas] |
+| M8: Votar Presidente e Fim | [Tempo] | [✓, !, ou X] | [Qtd] | [Suas notas] |
+
+**Participante P06**
+
+| Tarefa | Tempo (em segundos) | Resultado da tarefa | Erros | Observações |
+| :--- | :--- | :--- | :--- | :--- |
+| M1: Iniciar simulação | [Tempo] | [✓, !, ou X] | [Qtd] | [Suas notas] |
+| M2: Ativar áudio | [Tempo] | [✓, !, ou X] | [Qtd] | [Suas notas] |
+| M3: Abrir colinha | [Tempo] | [✓, !, ou X] | [Qtd] | [Suas notas] |
+| M4: Votar Dep. Federal | [Tempo] | [✓, !, ou X] | [Qtd] | [Suas notas] |
+| M5: Corrigir Dep. Estadual | [Tempo] | [✓, !, ou X] | [Qtd] | [Suas notas] |
+| M6: Votar em Branco (Senador) | [Tempo] | [✓, !, ou X] | [Qtd] | [Suas notas] |
+| M7: Votar Nulo (Governador) | [Tempo] | [✓, !, ou X] | [Qtd] | [Suas notas] |
+| M8: Votar Presidente e Fim | [Tempo] | [✓, !, ou X] | [Qtd] | [Suas notas] |
+
+**Participante P07**
+
+| Tarefa | Tempo (em segundos) | Resultado da tarefa | Erros | Observações |
+| :--- | :--- | :--- | :--- | :--- |
+| M1: Iniciar simulação | [Tempo] | [✓, !, ou X] | [Qtd] | [Suas notas] |
+| M2: Ativar áudio | [Tempo] | [✓, !, ou X] | [Qtd] | [Suas notas] |
+| M3: Abrir colinha | [Tempo] | [✓, !, ou X] | [Qtd] | [Suas notas] |
+| M4: Votar Dep. Federal | [Tempo] | [✓, !, ou X] | [Qtd] | [Suas notas] |
+| M5: Corrigir Dep. Estadual | [Tempo] | [✓, !, ou X] | [Qtd] | [Suas notas] |
+| M6: Votar em Branco (Senador) | [Tempo] | [✓, !, ou X] | [Qtd] | [Suas notas] |
+| M7: Votar Nulo (Governador) | [Tempo] | [✓, !, ou X] | [Qtd] | [Suas notas] |
+| M8: Votar Presidente e Fim | [Tempo] | [✓, !, ou X] | [Qtd] | [Suas notas] |
+
+**Participante P08**
+
+| Tarefa | Tempo (em segundos) | Resultado da tarefa | Erros | Observações |
+| :--- | :--- | :--- | :--- | :--- |
+| M1: Iniciar simulação | [Tempo] | [✓, !, ou X] | [Qtd] | [Suas notas] |
+| M2: Ativar áudio | [Tempo] | [✓, !, ou X] | [Qtd] | [Suas notas] |
+| M3: Abrir colinha | [Tempo] | [✓, !, ou X] | [Qtd] | [Suas notas] |
+| M4: Votar Dep. Federal | [Tempo] | [✓, !, ou X] | [Qtd] | [Suas notas] |
+| M5: Corrigir Dep. Estadual | [Tempo] | [✓, !, ou X] | [Qtd] | [Suas notas] |
+| M6: Votar em Branco (Senador) | [Tempo] | [✓, !, ou X] | [Qtd] | [Suas notas] |
+| M7: Votar Nulo (Governador) | [Tempo] | [✓, !, ou X] | [Qtd] | [Suas notas] |
+| M8: Votar Presidente e Fim | [Tempo] | [✓, !, ou X] | [Qtd] | [Suas notas] |
+
+---
 
 ### Resumo por participante
-[Inserir tabela e explicação]
+
+[Breve explicação: Esta tabela consolida o desempenho geral de todos os utilizadores que realizaram o teste, somando os sucessos, dificuldades, falhas, tempo total e total de erros de cada um.]
+
+| Participante | Sucesso ✓ | Com dificuldade ! | Insucesso X | Tempo total (s) | Total de erros |
+| :--- | :--- | :--- | :--- | :--- | :--- |
+| P01 | [Qtd] | [Qtd] | [Qtd] | [Soma do Tempo] | [Soma dos Erros] |
+| P02 | [Qtd] | [Qtd] | [Qtd] | [Soma do Tempo] | [Soma dos Erros] |
+| P03 | [Qtd] | [Qtd] | [Qtd] | [Soma do Tempo] | [Soma dos Erros] |
+| P04 | [Qtd] | [Qtd] | [Qtd] | [Soma do Tempo] | [Soma dos Erros] |
+| P05 | [Qtd] | [Qtd] | [Qtd] | [Soma do Tempo] | [Soma dos Erros] |
+| P06 | [Qtd] | [Qtd] | [Qtd] | [Soma do Tempo] | [Soma dos Erros] |
+| P07 | [Qtd] | [Qtd] | [Qtd] | [Soma do Tempo] | [Soma dos Erros] |
+| P08 | [Qtd] | [Qtd] | [Qtd] | [Soma do Tempo] | [Soma dos Erros] |
+
+---
 
 ### Consolidação por tarefa
-[Inserir tabela e explicação]
+
+[Breve explicação: A tabela seguinte apresenta a taxa de sucesso e o tempo médio gasto em cada missão, permitindo identificar quais as etapas do simulador que geraram mais atrito geral.]
+
+| Tarefa | TSR - Taxa de Sucesso (%) | TTR - Tempo médio da tarefa (s) |
+| :--- | :--- | :--- |
+| M1: Iniciar simulação | [%] | [Média s] |
+| M2: Ativar áudio | [%] | [Média s] |
+| M3: Abrir colinha | [%] | [Média s] |
+| M4: Votar Dep. Federal | [%] | [Média s] |
+| M5: Corrigir Dep. Estadual | [%] | [Média s] |
+| M6: Votar em Branco (Senador) | [%] | [Média s] |
+| M7: Votar Nulo (Governador) | [%] | [Média s] |
+| M8: Votar Presidente e Fim | [%] | [Média s] |
+
+---
 
 ### Respostas abertas e fatores de usabilidade
-[Inserir tabela e explicação]
+
+[Insira aqui as respostas abertas recolhidas no questionário pós-teste e explique brevemente os padrões encontrados.]
 
 ### Considerações sobre o Teste de Usabilidade
-[Texto final]
+
+[Apresente a conclusão final da equipa sobre a experiência de uso da urna baseada nos dados quantitativos acima e nos principais bloqueios observados.]
