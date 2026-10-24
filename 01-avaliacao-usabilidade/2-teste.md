@@ -11,7 +11,7 @@
 
 ## 3. Execução
 ### Evidências
-![Participante realizando o teste](../imagens/teste-p01.png)
+![Participante realizando o teste](../imagens/Teste_Mariana.png)
 *Figura 1 - Participante durante a realização do teste.*
 
 ## 4. Análise dos Resultados
