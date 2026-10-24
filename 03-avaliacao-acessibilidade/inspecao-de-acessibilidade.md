@@ -12,7 +12,7 @@ Foram selecionadas as seguintes telas e componentes para inspeção:
 ## Processo utilizado
 O processo foi organizado em três etapas sequenciais:
 1. **Detecção:** Realização dos testes práticos no simulador divididos em quatro técnicas: navegação exclusiva por teclado (Tab/Shift+Tab/Enter), utilização do software leitor de tela (NVDA) para verificação do retorno sonoro das teclas virtuais, análise do tamanho de fontes e espaçamento de leitura, e teste de taxa de contraste de cores nos botões de comando.
-2. **Coleção:** Agrupamento de todas as inconsistências mapeadas em uma lista consolidada, eliminando registros duplicados.
+2. **Coleção:** Agrupamento de todas as inconsistências mapeadas em uma lista consolidada.
 3. **Discriminação:** Análise de cada ocorrência para classificar a gravidade, descartar falsos positivos e associar cada defeito ao critério correspondente da WCAG 2.2.
 
 ## Resultados da inspeção
