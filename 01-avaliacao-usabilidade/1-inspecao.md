@@ -24,7 +24,6 @@ A inspeção foi realizada no **Simulador de Urna Eletrónica do TSE**. A equipe
 * **Etapa 4 - Relato dos Resultados:** Para cada defeito validado, foi atribuído um Grau de Severidade (de 1 a 4) com base no seu impacto na experiência do utilizador, juntamente com propostas de melhoria para os programadores do sistema.
 
 ### Registros da avaliação
-[Inserir uma foto da equipe realizando a discriminação (seja print de reunião remota ou presencial)]
-![Equipe realizando a inspeção](../imagens/foto-inspecao.png)
+![Equipe realizando a inspeção](../imagens/Foto_coleção.png)
 
 [[Clique aqui para ter acesso as tabelas da Inspeção](https://app.notion.com/p/Inspe-o-de-Usabilidade-3f79951fb4de8014848eec7a5138d432?source=copy_link)]
