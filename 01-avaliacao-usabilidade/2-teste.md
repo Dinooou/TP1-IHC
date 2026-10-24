@@ -89,14 +89,14 @@
 
 | Tarefa | Tempo (em segundos) | Resultado da tarefa | Erros | Observações |
 | :--- | :--- | :--- | :--- | :--- |
-| M1: Iniciar simulação | [Tempo] | [✓, !, ou X] | [Qtd] | [Suas notas] |
-| M2: Ativar áudio | [Tempo] | [✓, !, ou X] | [Qtd] | [Suas notas] |
-| M3: Abrir colinha | [Tempo] | [✓, !, ou X] | [Qtd] | [Suas notas] |
-| M4: Votar Dep. Federal | [Tempo] | [✓, !, ou X] | [Qtd] | [Suas notas] |
-| M5: Corrigir Dep. Estadual | [Tempo] | [✓, !, ou X] | [Qtd] | [Suas notas] |
-| M6: Votar em Branco (Senador) | [Tempo] | [✓, !, ou X] | [Qtd] | [Suas notas] |
-| M7: Votar Nulo (Governador) | [Tempo] | [✓, !, ou X] | [Qtd] | [Suas notas] |
-| M8: Votar Presidente e Fim | [Tempo] | [✓, !, ou X] | [Qtd] | [Suas notas] |
+| M1: Iniciar simulação | [24 | ! | 1 | Teve dificuldade de encontrar aonde clicar, e clicou no lugar errado, porém conseguiu retornar |
+| M2: Ativar áudio | 5 | X | 1 | Não encontrou o botão de ativar áudio, e nem sabia da funcionalidade |
+| M3: Abrir colinha | 86 | ! | 52 | Teve dificuldades em corrigir números errados |
+| M4: Votar Dep. Federal | 32 | ✓ | 0 | Demorou devido ao carregamento do site |
+| M5: Corrigir Dep. Estadual | 31 | ! | 1 | Teve dificuldades com corrigir o número |
+| M6: Votar em Branco (Senador) | 26 | ! | 1 | Demorou pra entender que eram dois senadores |
+| M7: Votar Nulo (Governador) | 30 | ! | 1 | Não conseguiu entender que o voto seria nulo, mas o fez mesmo assim |
+| M8: Votar Presidente e Fim | 9 | ✓ | 0 | Concluiu com êxito |
 
 **Participante P07**
 
