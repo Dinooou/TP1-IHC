@@ -2,12 +2,27 @@
 
 ## 1. Planejamento
 ### Objetivo do teste
+O principal objetivo deste teste é avaliar a usabilidade e identificar possíveis barreiras de interação no Simulador de Urna Eletrónica do TSE. Pretende-se observar como os utilizadores navegam pela interface web para realizar ações comuns — como inserir números, corrigir escolhas e submeter votos em branco ou nulos —, avaliando a eficácia e a satisfação durante a simulação do fluxo eleitoral.
+
 ### Tarefas
+Para simular o fluxo real de uma eleição, os participantes foram orientados a completar um percurso focado nas seguintes missões:
+1. Iniciar a simulação no cenário de Eleições Gerais.
+2. Realizar um voto direto num candidato ou voto de legenda.
+3. Digitar um número incorreto propositadamente e utilizar a tecla "Corrige".
+4. Registar um voto em "Branco" para um dos cargos.
+5. Simular um voto nulo (inserir um número de partido inexistente) e confirmar.
+6. Concluir todo o fluxo de votação até visualizar o ecrã final ("FIM").
+
 ### Instrumentos utilizados
+O teste foi conduzido de forma remota, contando com a colaboração de 3 participantes. Todo o processo foi executado diretamente no ambiente web, sem recurso a protótipos no Figma, recorrendo à seguinte estrutura de ferramentas:
+* **Simulador da Urna Eletrónica (TSE):** O sistema alvo onde as tarefas foram efetivamente realizadas.
+* **Maze:** Plataforma principal para a estruturação das tarefas e recolha de métricas comportamentais não moderadas.
+* **Google Meet:** Utilizado para a condução das sessões remotas, permitindo a partilha de ecrã, a observação do percurso e a comunicação em tempo real.
+* **Google Forms:** Ferramenta escolhida para a aplicação do questionário de caracterização do perfil (pré-teste) e para o formulário de satisfação (pós-teste).
 
 ## 2. Teste Piloto
 ### Ajustes realizados
-[Descrever os ajustes feitos após o piloto]
+Foi ajustado o passo a passo dentro do Maze, adicionando mais alguns passos contextuais, pra ajudar na interpretação. Além disso foi elaborada uma mensagem personalizada para passar os links para o voluntário. 
 
 ## 3. Execução
 ### Evidências
