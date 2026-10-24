@@ -12,7 +12,7 @@
 ---
 
 ## Breve Apresentação do Sistema
-[Escrever aqui 2 ou 3 linhas sobre o sistema que escolheram avaliar e o que ele faz. Se quiserem, adicionem uma imagem de destaque do sistema aqui].
+O sistema avaliado é o Simulador de Votação na Urna Eletrônica, uma aplicação web interativa desenvolvida pelo Tribunal Superior Eleitoral (TSE). A sua finalidade é pedagógica, permitindo que os eleitores treinem os fluxos de votação (como a inserção de números, correção e voto em branco) e se familiarizem com a interface visual e sonora da urna real antes do dia das eleições.
 
 ---
 
@@ -45,7 +45,7 @@ O repositório está estruturado em cinco pastas principais, cada uma correspond
 * **UEQ (User Experience Questionnaire):** Avaliação quantitativa de atributos pragmáticos e hedónicos.
 * **ATLAS.ti:** Análise qualitativa e codificação das respostas abertas.
 * **YouTube:** Alojamento privado dos vídeos de interação para o método MAC.
-* **Ferramentas de Acessibilidade:** [Inserir aqui o leitor de ecrã usado, ex: NVDA ou VoiceOver, e validadores de contraste].
+* **Ferramentas de Acessibilidade:** NVDA (leitor de tela), navegação nativa por teclado e verificadores web de contraste de cores (padrão WCAG 2.2).
 
 ---
 
