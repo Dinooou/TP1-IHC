@@ -63,14 +63,14 @@
 
 | Tarefa | Tempo (em segundos) | Resultado da tarefa | Erros | Observações |
 | :--- | :--- | :--- | :--- | :--- |
-| M1: Iniciar simulação | [Tempo] | [✓, !, ou X] | [Qtd] | [Suas notas] |
-| M2: Ativar áudio | [Tempo] | [✓, !, ou X] | [Qtd] | [Suas notas] |
-| M3: Abrir colinha | [Tempo] | [✓, !, ou X] | [Qtd] | [Suas notas] |
-| M4: Votar Dep. Federal | [Tempo] | [✓, !, ou X] | [Qtd] | [Suas notas] |
-| M5: Corrigir Dep. Estadual | [Tempo] | [✓, !, ou X] | [Qtd] | [Suas notas] |
-| M6: Votar em Branco (Senador) | [Tempo] | [✓, !, ou X] | [Qtd] | [Suas notas] |
-| M7: Votar Nulo (Governador) | [Tempo] | [✓, !, ou X] | [Qtd] | [Suas notas] |
-| M8: Votar Presidente e Fim | [Tempo] | [✓, !, ou X] | [Qtd] | [Suas notas] |
+| M1: Iniciar simulação | 8 | ✓ | 0 | Entendeu rápido aonde clicar |
+| M2: Ativar áudio | 7 | X | 1 | Não achou aonde |
+| M3: Abrir colinha | 98 | ! | 3 | Conseguiu com muita dificuldade devido a confusão causada dentro do site |
+| M4: Votar Dep. Federal | 142 | ! | 2 | Demorou devido ao carregamento do site |
+| M5: Corrigir Dep. Estadual | 87 | ! | 2 | Conseguiu com dificuldades pois não sabia exatamente aonde clicar |
+| M6: Votar em Branco (Senador) | 53 | ! | 0 | Conseguiu realizar a atividade porem se confundiu com as duas vagas |
+| M7: Votar Nulo (Governador) | 46 | ! | 1 | Demorou pra entender que o número digitado votaria nulo e tentou corrigir |
+| M8: Votar Presidente e Fim | 21 | ✓ | 0 | Teve êxito na etapa |
 
 **Participante P05**
 
