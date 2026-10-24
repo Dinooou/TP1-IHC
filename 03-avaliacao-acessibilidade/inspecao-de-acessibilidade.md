@@ -41,4 +41,3 @@ A tabela a seguir classifica as violações mapeadas de acordo com os princípio
 
 ## Considerações sobre os resultados
 A inspeção revelou que a interface do simulador web do TSE apresenta forte dependência do mouse para simular a interação física da urna. A ausência de suporte completo à navegação por teclado e a falta de rótulos acessíveis em parte dos botões numéricos criam barreiras severas para usuários que utilizam leitores de tela. Para mitigar esses problemas, recomenda-se a implementação imediata de atributos `aria-label` nos componentes da urna virtual, a definição de estilos explícitos de foco via CSS (`:focus`) e o ajuste no contraste dos botões de ação especial.
-```[cite: 19, 20]
