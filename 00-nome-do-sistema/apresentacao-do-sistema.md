@@ -3,6 +3,9 @@
 ### Qual sistema será avaliado?
 O sistema avaliado é o **Simulador de Votação na Urna Eletrônica**, uma aplicação web oficial desenvolvida pelo Tribunal Superior Eleitoral (TSE). Trata-se de uma interface interativa que reproduz o comportamento e o visual da urna eletrônica real utilizada nas eleições brasileiras.
 
+![Tela inicial do Simulador de Votação do TSE](../imagens/Tela_do_simulador.png)
+*Figura 1 - Tela inicial do simulador do TSE.*
+
 ### Qual é o domínio do sistema?
 O sistema está inserido no domínio de **Serviços Governamentais e Cidadania**.
 
