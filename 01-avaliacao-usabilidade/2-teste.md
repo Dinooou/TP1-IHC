@@ -16,7 +16,7 @@ Para simular o fluxo real de uma eleição, os participantes foram orientados a 
 8. Concluir todo o fluxo de votação até visualizar a tela final ("FIM").
 
 ### Instrumentos utilizados
-O teste foi conduzido de forma remota, contando com a colaboração de 3 participantes. Todo o processo foi executado diretamente no ambiente web, recorrendo à seguinte estrutura de ferramentas:
+O teste foi conduzido de forma remota, contando com a colaboração de 8 participantes. Todo o processo foi executado diretamente no ambiente web, recorrendo à seguinte estrutura de ferramentas:
 * **Simulador da Urna Eletrônica (TSE):** O sistema alvo onde as tarefas foram efetivamente realizadas.
 * **Maze:** Plataforma principal para a estruturação das tarefas e coleta de métricas comportamentais não moderadas.
 * **Google Meet:** Utilizado para a condução das sessões remotas, permitindo o compartilhamento de tela, a observação do percurso e a comunicação em tempo real.
@@ -110,7 +110,7 @@ As tabelas abaixo detalham o desempenho individual de cada um dos 8 participante
 | M5: Corrigir Dep. Estadual | 14 | X | 1 | Não corrigiu e seguiu adiante |
 | M6: Votar em Branco (Senador) | 22 | X | 2 | Não conseguiu votar em branco pois não entendeu o sistema |
 | M7: Votar Nulo (Governador) | 41 | ! | 1 | Não entendeu como iria registrar o voto nulo, mas no fim conseguiu |
-| M8: Votar Presidente e Fim | 21 | ! | 1 | Teve êxito na etapa |
+| M8: Votar Presidente e Fim | 21 | ✓ | 1 | Teve êxito na etapa |
 
 **Participante P06**
 
@@ -159,7 +159,7 @@ Esta tabela consolida o desempenho geral de todos os usuários que realizaram o 
 
 | Participante | Sucesso ✓ | Com dificuldade ! | Insucesso X | Tempo total (s) | Total de erros |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| P01 | 3 | 4 | 1 | 293 | 13 |
+| P01 | 1 | 6 | 1 | 293 | 13 |
 | P02 | 2 | 2 | 4 | 299 | 4 |
 | P03 | 1 | 5 | 2 | 245 | 10 |
 | P04 | 2 | 5 | 1 | 462 | 9 |
