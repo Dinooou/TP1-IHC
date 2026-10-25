@@ -29,7 +29,7 @@ Foi ajustado o passo a passo dentro do Maze, adicionando mais alguns passos cont
 ## 3. Execução
 ### Evidências
 ![Participante realizando o teste](../imagens/Teste_P01.png)
-*Figura 1 - Participante durante a realização do teste.*
+*Figura 2 - Participante durante a realização do teste.*
 
 ## 4. Análise dos Resultados
 
