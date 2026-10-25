@@ -2,24 +2,24 @@
 
 ## 1. Planejamento
 ### Objetivo do teste
-O principal objetivo deste teste é avaliar a usabilidade e identificar possíveis barreiras de interação no Simulador de Urna Eletrónica do TSE. Pretende-se observar como os utilizadores navegam pela interface web para realizar ações comuns — como inserir números, corrigir escolhas e submeter votos em branco ou nulos —, avaliando a eficácia e a satisfação durante a simulação do fluxo eleitoral.
+O principal objetivo deste teste é avaliar a usabilidade e identificar possíveis barreiras de interação no Simulador de Urna Eletrônica do TSE. Pretende-se observar como os usuários navegam pela interface web para realizar ações comuns — como inserir números, corrigir escolhas e submeter votos em branco ou nulos —, avaliando a eficácia e a satisfação durante a simulação do fluxo eleitoral.
 
 ### Tarefas
 Para simular o fluxo real de uma eleição, os participantes foram orientados a completar um percurso focado nas seguintes missões:
 1. Iniciar a simulação no cenário de Eleições Gerais.
 2. Ativar o recurso de acessibilidade de áudio do site.
 3. Abrir a subpágina e preencher a colinha eleitoral.
-4. Realizar um voto direto num candidato ou voto de legenda.
+4. Realizar um voto direto em um candidato ou voto de legenda.
 5. Digitar um número incorreto propositadamente e utilizar a tecla "Corrige".
-6. Registar um voto em "Branco" para um dos cargos.
+6. Registrar um voto em "Branco" para um dos cargos.
 7. Simular um voto nulo (inserir um número de partido inexistente) e confirmar.
-8. Concluir todo o fluxo de votação até visualizar o ecrã final ("FIM").
+8. Concluir todo o fluxo de votação até visualizar a tela final ("FIM").
 
 ### Instrumentos utilizados
 O teste foi conduzido de forma remota, contando com a colaboração de 3 participantes. Todo o processo foi executado diretamente no ambiente web, recorrendo à seguinte estrutura de ferramentas:
-* **Simulador da Urna Eletrónica (TSE):** O sistema alvo onde as tarefas foram efetivamente realizadas.
-* **Maze:** Plataforma principal para a estruturação das tarefas e recolha de métricas comportamentais não moderadas.
-* **Google Meet:** Utilizado para a condução das sessões remotas, permitindo a partilha de ecrã, a observação do percurso e a comunicação em tempo real.
+* **Simulador da Urna Eletrônica (TSE):** O sistema alvo onde as tarefas foram efetivamente realizadas.
+* **Maze:** Plataforma principal para a estruturação das tarefas e coleta de métricas comportamentais não moderadas.
+* **Google Meet:** Utilizado para a condução das sessões remotas, permitindo o compartilhamento de tela, a observação do percurso e a comunicação em tempo real.
 * **Google Forms:** Ferramenta escolhida para a aplicação do questionário de caracterização do perfil (pré-teste) e para o formulário de satisfação (pós-teste).
 
 ## 2. Teste Piloto
@@ -33,6 +33,16 @@ Foi ajustado o passo a passo dentro do Maze, adicionando mais alguns passos cont
 
 ## 4. Análise dos Resultados
 
+**Legenda dos resultados**
+
+| Símbolo | Significado |
+| :--- | :--- |
+| ✓ | O usuário conseguiu completar a tarefa |
+| ! | O usuário completou a tarefa, mas com dificuldade |
+| X | O usuário não conseguiu completar a tarefa |
+
+**Erros:** quantidade de ações incorretas registradas durante a tarefa (por exemplo, cliques em lugares errados ou tentativas sem sucesso).
+
 ### Resultados por participante
 
 As tabelas abaixo detalham o desempenho individual de cada um dos 8 participantes nas tarefas propostas, incluindo o tempo de execução e os erros cometidos.
@@ -41,10 +51,10 @@ As tabelas abaixo detalham o desempenho individual de cada um dos 8 participante
 
 | Tarefa | Tempo (em segundos) | Resultado da tarefa | Erros | Observações |
 | :--- | :--- | :--- | :--- | :--- |
-| M1: Iniciar simulação | 10 | ✓ | 1 | O usuário iniciou clicando em um lugar errado, mas percebeu e voltou atrás |
+| M1: Iniciar simulação | 10 | ! | 1 | O usuário iniciou clicando em um lugar errado, mas percebeu e voltou atrás |
 | M2: Ativar áudio | 15 | X | 3 | O usuário não conseguiu ativar o áudio e não achou a opção |
 | M3: Abrir colinha | 34 | ! | 2 | O usuário demorou pra entender a colinha |
-| M4: Votar Dep. Federal | 82 | ✓ | 2 | O usuário teve uma breve confusão sobre o cargo, mas rapidamente sanada |
+| M4: Votar Dep. Federal | 82 | ! | 2 | O usuário teve uma breve confusão sobre o cargo, mas rapidamente sanada |
 | M5: Corrigir Dep. Estadual | 32 | ! | 1 | O usuário sentiu dificuldade em corrigir |
 | M6: Votar em Branco (Senador) | 50 | ! | 3 | O usuário sentiu dificuldade com a relação de ter de votar em dois senadores, pois o sistema evidencia pouco |
 | M7: Votar Nulo (Governador) | 56 | ! | 1 | O usuário sentiu dificuldade em entender que o voto registrado pelo número seria nulo |
@@ -100,7 +110,7 @@ As tabelas abaixo detalham o desempenho individual de cada um dos 8 participante
 | M5: Corrigir Dep. Estadual | 14 | X | 1 | Não corrigiu e seguiu adiante |
 | M6: Votar em Branco (Senador) | 22 | X | 2 | Não conseguiu votar em branco pois não entendeu o sistema |
 | M7: Votar Nulo (Governador) | 41 | ! | 1 | Não entendeu como iria registrar o voto nulo, mas no fim conseguiu |
-| M8: Votar Presidente e Fim | 21 | ✓ | 1 | Teve êxito na etapa |
+| M8: Votar Presidente e Fim | 21 | ! | 1 | Teve êxito na etapa |
 
 **Participante P06**
 
@@ -145,7 +155,7 @@ As tabelas abaixo detalham o desempenho individual de cada um dos 8 participante
 
 ### Resumo por participante
 
-Esta tabela consolida o desempenho geral de todos os utilizadores que realizaram o teste, somando os sucessos, dificuldades, falhas, tempo total e total de erros de cada um.
+Esta tabela consolida o desempenho geral de todos os usuários que realizaram o teste, somando os sucessos, dificuldades, falhas, tempo total e total de erros de cada um.
 
 | Participante | Sucesso ✓ | Com dificuldade ! | Insucesso X | Tempo total (s) | Total de erros |
 | :--- | :--- | :--- | :--- | :--- | :--- |
@@ -156,7 +166,7 @@ Esta tabela consolida o desempenho geral de todos os utilizadores que realizaram
 | P05 | 2 | 3 | 3 | 395 | 11 |
 | P06 | 2 | 5 | 1 | 243 | 10 |
 | P07 | 6 | 2 | 0 | 194 | 3 |
-| P08 | 5 | 2 | 1 | 182 | 4 |
+| P08 | 5 | 2 | 1 | 182 | 5 |
 
 ---
 
