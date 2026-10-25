@@ -50,4 +50,4 @@ O repositório está estruturado em cinco pastas principais, cada uma correspond
 ---
 
 ## Declaração de Uso de IA
-A equipa utilizou ferramentas de Inteligência Artificial, como o Claude e Gemini, para auxiliar na organização das partes de documentação e revisão textual. As ferramentas foram utilizadas apenas como suporte metodológico, sendo que todas as avaliações práticas, etiquetagens, análises de dados e conclusões finais foram executadas, revistas e validadas integralmente pelos elementos da equipe.
+A equipa utilizou ferramentas de Inteligência Artificial, como o Claude e Gemini, para auxiliar na organização das partes de documentação, cálculo das tabelas e revisão textual. As ferramentas foram utilizadas apenas como suporte metodológico, sendo que todas as avaliações práticas, etiquetagens, análises de dados e conclusões finais foram executadas, revistas e validadas integralmente pelos elementos da equipe.
