@@ -52,14 +52,14 @@ Foi ajustado o passo a passo dentro do Maze, adicionando mais alguns passos cont
 
 | Tarefa | Tempo (em segundos) | Resultado da tarefa | Erros | Observações |
 | :--- | :--- | :--- | :--- | :--- |
-| M1: Iniciar simulação | [Tempo] | [✓, !, ou X] | [Qtd] | [Suas notas] |
-| M2: Ativar áudio | [Tempo] | [✓, !, ou X] | [Qtd] | [Suas notas] |
-| M3: Abrir colinha | [Tempo] | [✓, !, ou X] | [Qtd] | [Suas notas] |
-| M4: Votar Dep. Federal | [Tempo] | [✓, !, ou X] | [Qtd] | [Suas notas] |
-| M5: Corrigir Dep. Estadual | [Tempo] | [✓, !, ou X] | [Qtd] | [Suas notas] |
-| M6: Votar em Branco (Senador) | [Tempo] | [✓, !, ou X] | [Qtd] | [Suas notas] |
-| M7: Votar Nulo (Governador) | [Tempo] | [✓, !, ou X] | [Qtd] | [Suas notas] |
-| M8: Votar Presidente e Fim | [Tempo] | [✓, !, ou X] | [Qtd] | [Suas notas] |
+| M1: Iniciar simulação | 10 | X | 1 | O usuário iniciou a simulação errada por erro de especificação do site |
+| M2: Ativar áudio | 88 | ! | 0 | O usuário teve um pouco de demora, mas resolveu sem nenhum erro |
+| M3: Abrir colinha | 83 | ! | 0 | O usuário abriu e preencheu sua colinha |
+| M4: Votar Dep. Federal | 56 | X | 1 | Usuário ficou perdido devido ao tipo de votação escolhida não constar Deputado Federal, após perceber, prosseguiu |
+| M5: Corrigir Dep. Estadual | 20 | X |  1 | O usuário pulou a etapa pois não constava Deputado Estadual no tipo de eleição escolhido |
+| M6: Votar em Branco (Senador) | 7 | X | 1 | O usuário pulou a etapa pois não constava Deputado Estadual no tipo de eleição escolhido |
+| M7: Votar Nulo (Governador) | 18 | ✓ | 0 | O usuário entendeu o voto nulo, e prosseguiu |
+| M8: Votar Presidente e Fim | 17 | ✓ | 0 | Concluiu com êxito |
 
 **Participante P03**
 
@@ -117,33 +117,33 @@ Foi ajustado o passo a passo dentro do Maze, adicionando mais alguns passos cont
 
 | Tarefa | Tempo (em segundos) | Resultado da tarefa | Erros | Observações |
 | :--- | :--- | :--- | :--- | :--- |
-| M1: Iniciar simulação | [Tempo] | [✓, !, ou X] | [Qtd] | [Suas notas] |
-| M2: Ativar áudio | [Tempo] | [✓, !, ou X] | [Qtd] | [Suas notas] |
-| M3: Abrir colinha | [Tempo] | [✓, !, ou X] | [Qtd] | [Suas notas] |
-| M4: Votar Dep. Federal | [Tempo] | [✓, !, ou X] | [Qtd] | [Suas notas] |
-| M5: Corrigir Dep. Estadual | [Tempo] | [✓, !, ou X] | [Qtd] | [Suas notas] |
-| M6: Votar em Branco (Senador) | [Tempo] | [✓, !, ou X] | [Qtd] | [Suas notas] |
-| M7: Votar Nulo (Governador) | [Tempo] | [✓, !, ou X] | [Qtd] | [Suas notas] |
-| M8: Votar Presidente e Fim | [Tempo] | [✓, !, ou X] | [Qtd] | [Suas notas] |
+| M1: Iniciar simulação | 8 | ✓ | 0 | O usuário conseguiu iniciar sem erros |
+| M2: Ativar áudio | 41 | ! | 2 | O usuário teve certa dificuldade para ativar o áudio, mas conseguiu no fim |
+| M3: Abrir colinha | 37 | ✓ | 0 | O usuário abriu a colinha e a preencheu sem dificuldades |
+| M4: Votar Dep. Federal | 43 | ✓ | 0 | O usuário não teve dificuldades porem o site demorou pra carregar |
+| M5: Corrigir Dep. Estadual | 26 | ! | 1 | O usuário teve um pouco de dificuldade com a correção, mas concluiu |
+| M6: Votar em Branco (Senador) | 12 | ✓ | 0 | O usuário conseguiu sem problemas |
+| M7: Votar Nulo (Governador) | 15 | ✓ | 0 | Entendeu rápido e registrou o voto |
+| M8: Votar Presidente e Fim | 12 | ✓ | 0 | Concluiu com êxito |
 
 **Participante P08**
 
 | Tarefa | Tempo (em segundos) | Resultado da tarefa | Erros | Observações |
 | :--- | :--- | :--- | :--- | :--- |
-| M1: Iniciar simulação | [Tempo] | [✓, !, ou X] | [Qtd] | [Suas notas] |
-| M2: Ativar áudio | [Tempo] | [✓, !, ou X] | [Qtd] | [Suas notas] |
-| M3: Abrir colinha | [Tempo] | [✓, !, ou X] | [Qtd] | [Suas notas] |
-| M4: Votar Dep. Federal | [Tempo] | [✓, !, ou X] | [Qtd] | [Suas notas] |
-| M5: Corrigir Dep. Estadual | [Tempo] | [✓, !, ou X] | [Qtd] | [Suas notas] |
-| M6: Votar em Branco (Senador) | [Tempo] | [✓, !, ou X] | [Qtd] | [Suas notas] |
-| M7: Votar Nulo (Governador) | [Tempo] | [✓, !, ou X] | [Qtd] | [Suas notas] |
-| M8: Votar Presidente e Fim | [Tempo] | [✓, !, ou X] | [Qtd] | [Suas notas] |
+| M1: Iniciar simulação | 13 | ✓ | 0 | Iniciou sem erros |
+| M2: Ativar áudio | 56 | X | 4 | O usuário procurou e tentou ativar, porem não conseguiu e prosseguiu sem |
+| M3: Abrir colinha | 16 | ! | 0 | Usuário abriu a colinha, porém não a preencheu |
+| M4: Votar Dep. Federal | 24 | ✓ | 0 | O usuário votou sem problemas |
+| M5: Corrigir Dep. Estadual | 28 | ! | 0 | Usuário demorou um pouco pra entender aonde corrigia, mas conseguiu |
+| M6: Votar em Branco (Senador) | 18 | ✓ | 0 | Votou tranquilamente em branco |
+| M7: Votar Nulo (Governador) | 14 | ✓ | 0 | Entendeu rapidamente a mensangem e registrou |
+| M8: Votar Presidente e Fim | 13 | ✓ | 0 | Registrou o voto sem problemas |
 
 ---
 
 ### Resumo por participante
 
-[Breve explicação: Esta tabela consolida o desempenho geral de todos os utilizadores que realizaram o teste, somando os sucessos, dificuldades, falhas, tempo total e total de erros de cada um.]
+Esta tabela consolida o desempenho geral de todos os utilizadores que realizaram o teste, somando os sucessos, dificuldades, falhas, tempo total e total de erros de cada um.
 
 | Participante | Sucesso ✓ | Com dificuldade ! | Insucesso X | Tempo total (s) | Total de erros |
 | :--- | :--- | :--- | :--- | :--- | :--- |
