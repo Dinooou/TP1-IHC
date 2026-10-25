@@ -7,14 +7,16 @@ O principal objetivo deste teste é avaliar a usabilidade e identificar possíve
 ### Tarefas
 Para simular o fluxo real de uma eleição, os participantes foram orientados a completar um percurso focado nas seguintes missões:
 1. Iniciar a simulação no cenário de Eleições Gerais.
-2. Realizar um voto direto num candidato ou voto de legenda.
-3. Digitar um número incorreto propositadamente e utilizar a tecla "Corrige".
-4. Registar um voto em "Branco" para um dos cargos.
-5. Simular um voto nulo (inserir um número de partido inexistente) e confirmar.
-6. Concluir todo o fluxo de votação até visualizar o ecrã final ("FIM").
+2. Ativar o recurso de acessibilidade de áudio do site.
+3. Abrir a subpágina e preencher a colinha eleitoral.
+4. Realizar um voto direto num candidato ou voto de legenda.
+5. Digitar um número incorreto propositadamente e utilizar a tecla "Corrige".
+6. Registar um voto em "Branco" para um dos cargos.
+7. Simular um voto nulo (inserir um número de partido inexistente) e confirmar.
+8. Concluir todo o fluxo de votação até visualizar o ecrã final ("FIM").
 
 ### Instrumentos utilizados
-O teste foi conduzido de forma remota, contando com a colaboração de 3 participantes. Todo o processo foi executado diretamente no ambiente web, sem recurso a protótipos no Figma, recorrendo à seguinte estrutura de ferramentas:
+O teste foi conduzido de forma remota, contando com a colaboração de 3 participantes. Todo o processo foi executado diretamente no ambiente web, recorrendo à seguinte estrutura de ferramentas:
 * **Simulador da Urna Eletrónica (TSE):** O sistema alvo onde as tarefas foram efetivamente realizadas.
 * **Maze:** Plataforma principal para a estruturação das tarefas e recolha de métricas comportamentais não moderadas.
 * **Google Meet:** Utilizado para a condução das sessões remotas, permitindo a partilha de ecrã, a observação do percurso e a comunicação em tempo real.
@@ -26,20 +28,20 @@ Foi ajustado o passo a passo dentro do Maze, adicionando mais alguns passos cont
 
 ## 3. Execução
 ### Evidências
-![Participante realizando o teste](../imagens/Teste_Mariana.png)
+![Participante realizando o teste](../imagens/Teste_P01.png)
 *Figura 1 - Participante durante a realização do teste.*
 
 ## 4. Análise dos Resultados
 
 ### Resultados por participante
 
-[Breve explicação: As tabelas abaixo detalham o desempenho individual de cada um dos 8 participantes nas tarefas propostas, incluindo o tempo de execução e os erros cometidos.]
+As tabelas abaixo detalham o desempenho individual de cada um dos 8 participantes nas tarefas propostas, incluindo o tempo de execução e os erros cometidos.
 
 **Participante P01**
 
 | Tarefa | Tempo (em segundos) | Resultado da tarefa | Erros | Observações |
 | :--- | :--- | :--- | :--- | :--- |
-| M1: Iniciar simulação | 10 | ✓ | 1 | O usuário iniciou tranquilamente |
+| M1: Iniciar simulação | 10 | ✓ | 1 | O usuário iniciou clicando em um lugar errado, mas percebeu e voltou atrás |
 | M2: Ativar áudio | 15 | X | 3 | O usuário não conseguiu ativar o áudio e não achou a opção |
 | M3: Abrir colinha | 34 | ! | 2 | O usuário demorou pra entender a colinha |
 | M4: Votar Dep. Federal | 82 | ✓ | 2 | O usuário teve uma breve confusão sobre o cargo, mas rapidamente sanada |
@@ -57,7 +59,7 @@ Foi ajustado o passo a passo dentro do Maze, adicionando mais alguns passos cont
 | M3: Abrir colinha | 83 | ! | 0 | O usuário abriu e preencheu sua colinha |
 | M4: Votar Dep. Federal | 56 | X | 1 | Usuário ficou perdido devido ao tipo de votação escolhida não constar Deputado Federal, após perceber, prosseguiu |
 | M5: Corrigir Dep. Estadual | 20 | X |  1 | O usuário pulou a etapa pois não constava Deputado Estadual no tipo de eleição escolhido |
-| M6: Votar em Branco (Senador) | 7 | X | 1 | O usuário pulou a etapa pois não constava Deputado Estadual no tipo de eleição escolhido |
+| M6: Votar em Branco (Senador) | 7 | X | 1 | O usuário pulou a etapa pois não constava Senador no tipo de eleição escolhido |
 | M7: Votar Nulo (Governador) | 18 | ✓ | 0 | O usuário entendeu o voto nulo, e prosseguiu |
 | M8: Votar Presidente e Fim | 17 | ✓ | 0 | Concluiu com êxito |
 
@@ -104,10 +106,10 @@ Foi ajustado o passo a passo dentro do Maze, adicionando mais alguns passos cont
 
 | Tarefa | Tempo (em segundos) | Resultado da tarefa | Erros | Observações |
 | :--- | :--- | :--- | :--- | :--- |
-| M1: Iniciar simulação | [24 | ! | 1 | Teve dificuldade de encontrar aonde clicar, e clicou no lugar errado, porém conseguiu retornar |
+| M1: Iniciar simulação | 24 | ! | 1 | Teve dificuldade de encontrar aonde clicar, e clicou no lugar errado, porém conseguiu retornar |
 | M2: Ativar áudio | 5 | X | 1 | Não encontrou o botão de ativar áudio, e nem sabia da funcionalidade |
-| M3: Abrir colinha | 86 | ! | 52 | Teve dificuldades em corrigir números errados |
-| M4: Votar Dep. Federal | 32 | ✓ | 0 | Demorou devido ao carregamento do site |
+| M3: Abrir colinha | 86 | ! | 5 | Teve dificuldades em corrigir números errados |
+| M4: Votar Dep. Federal | 32 | ✓ | 0 | Percorreu tranquilamente |
 | M5: Corrigir Dep. Estadual | 31 | ! | 1 | Teve dificuldades com corrigir o número |
 | M6: Votar em Branco (Senador) | 26 | ! | 1 | Demorou pra entender que eram dois senadores |
 | M7: Votar Nulo (Governador) | 30 | ! | 1 | Não conseguiu entender que o voto seria nulo, mas o fez mesmo assim |
@@ -132,7 +134,7 @@ Foi ajustado o passo a passo dentro do Maze, adicionando mais alguns passos cont
 | :--- | :--- | :--- | :--- | :--- |
 | M1: Iniciar simulação | 13 | ✓ | 0 | Iniciou sem erros |
 | M2: Ativar áudio | 56 | X | 4 | O usuário procurou e tentou ativar, porem não conseguiu e prosseguiu sem |
-| M3: Abrir colinha | 16 | ! | 0 | Usuário abriu a colinha, porém não a preencheu |
+| M3: Abrir colinha | 16 | ! | 1 | Usuário abriu a colinha, porém não a preencheu |
 | M4: Votar Dep. Federal | 24 | ✓ | 0 | O usuário votou sem problemas |
 | M5: Corrigir Dep. Estadual | 28 | ! | 0 | Usuário demorou um pouco pra entender aonde corrigia, mas conseguiu |
 | M6: Votar em Branco (Senador) | 18 | ✓ | 0 | Votou tranquilamente em branco |
@@ -147,31 +149,31 @@ Esta tabela consolida o desempenho geral de todos os utilizadores que realizaram
 
 | Participante | Sucesso ✓ | Com dificuldade ! | Insucesso X | Tempo total (s) | Total de erros |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| P01 | [Qtd] | [Qtd] | [Qtd] | [Soma do Tempo] | [Soma dos Erros] |
-| P02 | [Qtd] | [Qtd] | [Qtd] | [Soma do Tempo] | [Soma dos Erros] |
-| P03 | [Qtd] | [Qtd] | [Qtd] | [Soma do Tempo] | [Soma dos Erros] |
-| P04 | [Qtd] | [Qtd] | [Qtd] | [Soma do Tempo] | [Soma dos Erros] |
-| P05 | [Qtd] | [Qtd] | [Qtd] | [Soma do Tempo] | [Soma dos Erros] |
-| P06 | [Qtd] | [Qtd] | [Qtd] | [Soma do Tempo] | [Soma dos Erros] |
-| P07 | [Qtd] | [Qtd] | [Qtd] | [Soma do Tempo] | [Soma dos Erros] |
-| P08 | [Qtd] | [Qtd] | [Qtd] | [Soma do Tempo] | [Soma dos Erros] |
+| P01 | 3 | 4 | 1 | 293 | 13 |
+| P02 | 2 | 2 | 4 | 299 | 4 |
+| P03 | 1 | 5 | 2 | 245 | 10 |
+| P04 | 2 | 5 | 1 | 462 | 9 |
+| P05 | 2 | 3 | 3 | 395 | 11 |
+| P06 | 2 | 5 | 1 | 243 | 10 |
+| P07 | 6 | 2 | 0 | 194 | 3 |
+| P08 | 5 | 2 | 1 | 182 | 4 |
 
 ---
 
 ### Consolidação por tarefa
 
-[Breve explicação: A tabela seguinte apresenta a taxa de sucesso e o tempo médio gasto em cada missão, permitindo identificar quais as etapas do simulador que geraram mais atrito geral.]
+A tabela seguinte apresenta a taxa de sucesso e o tempo médio gasto em cada missão, permitindo identificar quais as etapas do simulador que geraram mais atrito geral.
 
 | Tarefa | TSR - Taxa de Sucesso (%) | TTR - Tempo médio da tarefa (s) |
 | :--- | :--- | :--- |
-| M1: Iniciar simulação | [%] | [Média s] |
-| M2: Ativar áudio | [%] | [Média s] |
-| M3: Abrir colinha | [%] | [Média s] |
-| M4: Votar Dep. Federal | [%] | [Média s] |
-| M5: Corrigir Dep. Estadual | [%] | [Média s] |
-| M6: Votar em Branco (Senador) | [%] | [Média s] |
-| M7: Votar Nulo (Governador) | [%] | [Média s] |
-| M8: Votar Presidente e Fim | [%] | [Média s] |
+| M1: Iniciar simulação | 87,5% | 27,4 |
+| M2: Ativar áudio | 25,0% | 28,8 |
+| M3: Abrir colinha | 100,0% | 67,9 |
+| M4: Votar Dep. Federal | 87,5% | 58,1 |
+| M5: Corrigir Dep. Estadual | 62,5% | 31,6 |
+| M6: Votar em Branco (Senador) | 75,0% | 29,4 |
+| M7: Votar Nulo (Governador) | 100,0% | 31,4 |
+| M8: Votar Presidente e Fim | 100,0% | 14,6 |
 
 ---
 
