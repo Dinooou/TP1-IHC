@@ -354,7 +354,7 @@ Os dois códigos são positivos. A "Satisfação geral" foi a mais frequente (6 
 
 #### Eficiência
 
-![Rede da dimensão Eficiência](../imagens/Eficiencia.png)
+![Rede da dimensão Eficiência](../imagens/Eficiência.png)
 
 *Figura 10 - Rede da dimensão Eficiência.*
 
