@@ -18,12 +18,20 @@ Para esta inspeção, foram utilizadas as 10 heurísticas de usabilidade de Jako
 
 ### Processo de inspeção
 A inspeção foi realizada no **Simulador de Urna Eletrónica do TSE**. A equipe (Matheus, João e Willian) executou o processo dividindo-o em quatro etapas principais, documentadas e validadas de forma colaborativa:
-* **Etapa 1 - Detecção:** Cada inspetor navegou pelo simulador de forma individual, identificando possíveis problemas de usabilidade e associando-os à heurística violada.
+* **Etapa 1 - Detecção:** Cada inspetor navegou pelo simulador de forma individua, livre e independente, sem roteiro de tarefas pré-definido, identificando possíveis problemas de usabilidade e associando-os à heurística violada.
 * **Etapa 2 - Coleção:** A equipe reuniu-se remotamente (via Google Meet) para unificar as tabelas individuais, agrupando as discrepâncias para identificar quais foram únicas ou repetidas pelos avaliadores.
 * **Etapa 3 - Discriminação:** Os problemas levantados foram analisados em conjunto para filtrar os apontamentos, classificando-os como Defeitos reais de usabilidade ou Falsos Positivos.
 * **Etapa 4 - Relato dos Resultados:** Para cada defeito validado, foi atribuído um Grau de Severidade (de 1 a 4) com base no seu impacto na experiência do utilizador, juntamente com propostas de melhoria para os programadores do sistema.
 
 ### Registros da avaliação
-![Equipe realizando a inspeção](../imagens/Foto_discriminação.png)
+![Equipe reunida remotamente realizando a inspeção](../imagens/Foto_discriminação.png)
 
-[[Clique aqui para ter acesso as tabelas da Inspeção](https://app.notion.com/p/Inspe-o-de-Usabilidade-3f79951fb4de8014848eec7a5138d432?source=copy_link)]
+Equipe reunida remotamente realizando a inspeção.
+
+---
+
+![Ambiente do Notion que contem as 4 etapas](../imagens/notion.png)
+
+Ambiente do Notion que contem as 4 etapas.
+
+[Clique aqui para ter acesso as tabelas da Inspeção](https://app.notion.com/p/Inspe-o-de-Usabilidade-3f79951fb4de8014848eec7a5138d432?source=copy_link)
