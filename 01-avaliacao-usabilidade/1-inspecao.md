@@ -7,7 +7,7 @@ A Avaliação Heurística é um método de inspeção de usabilidade criado por 
 Para esta inspeção, foram utilizadas as 10 heurísticas de usabilidade de Jakob Nielsen:
 1. **Visibilidade do status do sistema:** O sistema deve manter os usuários informados sobre o que está acontecendo, através de feedback em tempo real.
 2. **Compatibilidade do sistema com o mundo real:** O sistema deve falar a linguagem do usuário, com palavras e conceitos que sejam familiares, seguindo convenções do mundo real.
-3. **Controle e liberdade do utilizador:** O sistema deve fornecer "saídas de emergência" claras para os usuários saírem rapidamente de estados indesejados.
+3. **Controle e liberdade do usuário:** O sistema deve fornecer "saídas de emergência" claras para os usuários saírem rapidamente de estados indesejados.
 4. **Consistência e padrões:** Os usuários não devem ter de adivinhar se diferentes palavras, situações ou ações significam a mesma coisa.
 5. **Prevenção de erros:** Um design cuidadoso que previna a ocorrência de erros é melhor do que boas mensagens de erro.
 6. **Reconhecer em vez de relembrar:** Minimizar a carga de memória do usuário, mantendo objetos, ações e opções visíveis. 
@@ -18,7 +18,7 @@ Para esta inspeção, foram utilizadas as 10 heurísticas de usabilidade de Jako
 
 ### Processo de inspeção
 A inspeção foi realizada no **Simulador de Urna Eletrônica do TSE**. A equipe (Matheus, João e Willian) executou o processo dividindo-o em quatro etapas principais, documentadas e validadas de forma colaborativa após a definição do escopo:
-* **Etapa 1 - Detecção:** Cada inspetor navegou pelo simulador de forma individua, livre e independente, sem roteiro de tarefas pré-definido, identificando possíveis problemas de usabilidade e associando-os à heurística violada.
+* **Etapa 1 - Detecção:** Cada inspetor navegou pelo simulador de forma individual, livre e independente, sem roteiro de tarefas pré-definido, identificando possíveis problemas de usabilidade e associando-os à heurística violada.
 * **Etapa 2 - Coleção:** A equipe reuniu-se remotamente (via Google Meet) para unificar as tabelas individuais, agrupando as discrepâncias para identificar quais foram únicas ou repetidas pelos avaliadores.
 * **Etapa 3 - Discriminação:** Os problemas levantados foram analisados em conjunto para filtrar os apontamentos, classificando-os como Defeitos reais de usabilidade ou Falsos Positivos.
 * **Etapa 4 - Relato dos Resultados:** Para cada defeito validado, foi atribuído um Grau de Severidade (de 1 a 4) com base no seu impacto na experiência do usuário, juntamente com propostas de melhoria para os desenvolvedores do sistema.
@@ -26,13 +26,13 @@ A inspeção foi realizada no **Simulador de Urna Eletrônica do TSE**. A equipe
 ### Registros da avaliação
 ![Equipe reunida remotamente realizando a inspeção](../imagens/Foto_discriminação.png)
 
-Equipe reunida remotamente realizando a inspeção.
+*Figura 1 - Equipe reunida remotamente realizando a etapa de discriminação.*
 
 ---
 
 ![Ambiente do Notion que contem as 4 etapas](../imagens/notion.png)
 
-Ambiente do Notion que contem as 4 etapas.
+*Figura 2 - Ambiente do Notion que contém as 4 etapas.*
 
 
-[Clique aqui para ter acesso as tabelas da Inspeção](https://app.notion.com/p/Inspe-o-de-Usabilidade-3f79951fb4de8014848eec7a5138d432?source=copy_link)
+[Clique aqui para ter acesso às tabelas da Inspeção](https://app.notion.com/p/Inspe-o-de-Usabilidade-3f79951fb4de8014848eec7a5138d432?source=copy_link)
