@@ -89,17 +89,16 @@ Em "Momento", escreva o tempo no formato `[mm:ss](https://youtu.be/ID_DO_VIDEO?t
 
 | Tarefa | Momento | O que o usuário fez ou disse | Etiqueta | Observação |
 | :--- | :--- | :--- | :--- | :--- |
-| [PREENCHER] | [PREENCHER: mm:ss](https://youtu.be/ID_DO_VIDEO?t=0) | [PREENCHER] | [PREENCHER] | [PREENCHER] |
-| [PREENCHER] | [PREENCHER: mm:ss](https://youtu.be/ID_DO_VIDEO?t=0) | [PREENCHER] | [PREENCHER] | [PREENCHER] |
-| [PREENCHER] | [PREENCHER: mm:ss](https://youtu.be/ID_DO_VIDEO?t=0) | [PREENCHER] | [PREENCHER] | [PREENCHER] |
+| tarefa 2 | [00:20](https://youtu.be/I4FwFOVdxrg?t=20) | Não está funcionando |  Ué, o que houve? | Não entendeu a resposta dada pelo site, mas prosseguiu |
+| tarefa 6 | [01:35](https://youtu.be/I4FwFOVdxrg?t=95) | ... | Cadê? | O usuário expressa dúvida e procura por algo na interface, mas não verbaliza nada |
+| tarefa 7 | [2:46](https://youtu.be/I4FwFOVdxrg?t=166) | ... | Cadê? | O usuário expressa dúvida e procura por algo na interface, mas não verbaliza nada |
 
 ### 3.3 Etiquetagem do participante U2
 
 | Tarefa | Momento | O que o usuário fez ou disse | Etiqueta | Observação |
 | :--- | :--- | :--- | :--- | :--- |
-| [PREENCHER] | [PREENCHER: mm:ss](https://youtu.be/ID_DO_VIDEO?t=0) | [PREENCHER] | [PREENCHER] | [PREENCHER] |
-| [PREENCHER] | [PREENCHER: mm:ss](https://youtu.be/ID_DO_VIDEO?t=0) | [PREENCHER] | [PREENCHER] | [PREENCHER] |
-| [PREENCHER] | [PREENCHER: mm:ss](https://youtu.be/ID_DO_VIDEO?t=0) | [PREENCHER] | [PREENCHER] | [PREENCHER] |
+| Tarefa 6 | [01:40](https://youtu.be/I4FwFOVdxrg?t=100) | O que? | O que é isso? | O usuário não entende a mensagem devolvida pelo site, o que causa um pequeno atraso |
+| Tarefa 9 | [05:04](https://youtu.be/I4FwFOVdxrg?t=304) | ... |  E agora? | O usuário fica travado por um tempo após ativar o áudio e não saber como prosseguir, mas não verbaliza |
 
 ## 4. Interpretação
 
@@ -109,21 +108,21 @@ Em "Momento", escreva o tempo no formato `[mm:ss](https://youtu.be/ID_DO_VIDEO?t
 
 | Expressão | U1 | U2 | Total |
 | :--- | :--- | :--- | :--- |
-| Cadê? | [PREENCHER] | [PREENCHER] | [PREENCHER] |
-| E agora? | [PREENCHER] | [PREENCHER] | [PREENCHER] |
-| O que é isto? | [PREENCHER] | [PREENCHER] | [PREENCHER] |
-| Epa! | [PREENCHER] | [PREENCHER] | [PREENCHER] |
-| Onde estou? | [PREENCHER] | [PREENCHER] | [PREENCHER] |
-| Por que não funciona? | [PREENCHER] | [PREENCHER] | [PREENCHER] |
-| Assim não dá | [PREENCHER] | [PREENCHER] | [PREENCHER] |
-| Ué, o que houve? | [PREENCHER] | [PREENCHER] | [PREENCHER] |
-| Para mim está bom | [PREENCHER] | [PREENCHER] | [PREENCHER] |
-| Desisto | [PREENCHER] | [PREENCHER] | [PREENCHER] |
-| Vai de outro jeito | [PREENCHER] | [PREENCHER] | [PREENCHER] |
-| Não, obrigado | [PREENCHER] | [PREENCHER] | [PREENCHER] |
-| Socorro! | [PREENCHER] | [PREENCHER] | [PREENCHER] |
+| Cadê? | 2 | 0 | 2 |
+| E agora? | 0 | 1 | 1 |
+| O que é isto? | 0 | 1 | 1 |
+| Epa! | 0 | 0 | 0 |
+| Onde estou? | 0 | 0 | 0 |
+| Por que não funciona? | 0 | 0 | 0 |
+| Assim não dá | 0 | 0 | 0 |
+| Ué, o que houve? | 1 | 0 | 1 |
+| Para mim está bom | 0 | 0 | 0 |
+| Desisto | 0 | 0 | 0 |
+| Vai de outro jeito | 0 | 0 | 0 |
+| Não, obrigado | 0 | 0 | 0 |
+| Socorro! | 0 | 0 | 0 |
 
-[PREENCHER: 2 ou 3 frases destacando as etiquetas mais frequentes e o que elas indicam.]
+A análise de frequência registrou 5 rupturas de comunicação no total, tendo a expressão **"Cadê?"** como a mais recorrente (2 ocorrências), seguida por **"E agora?"**, **"O que é isto?"** e **"Ué, o que houve?"** (1 ocorrência cada). A maior incidência de **"Cadê?"** indica falhas de visibilidade na interface web, evidenciando que o usuário compreende a tarefa solicitada, mas encontra dificuldade para localizar elementos específicos na tela (como controles de áudio ou recursos auxiliares). Por sua vez, as demais etiquetas revelam momentos pontuais de hesitação diante das mensagens e transições de estado do simulador (como na cobrança do segundo voto para Senador ou na confirmação de voto nulo), nos quais o sistema não comunicou de imediato o que havia acontecido ou qual deveria ser o próximo passo. Vale ressaltar que, os participantes não se mobilizaram muito a seguir o Thinkaloud, fazendo com que a coleção desses dados tenha sido mais dificultada.
 
 ### 4.2 Rupturas de comunicação por tarefa
 
