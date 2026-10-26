@@ -18,7 +18,7 @@ Para simular o fluxo real de uma eleição, os participantes foram orientados a 
 ### Instrumentos utilizados
 O teste foi conduzido de forma remota, contando com a colaboração de 8 participantes. Todo o processo foi executado diretamente no ambiente web, recorrendo à seguinte estrutura de ferramentas:
 * **Simulador da Urna Eletrônica (TSE):** O sistema alvo onde as tarefas foram efetivamente realizadas.
-* **Maze:** Plataforma principal para a estruturação das tarefas e coleta de métricas comportamentais não moderadas.
+* **Maze:** Plataforma principal para a estruturação das tarefas e coleta de métricas comportamentais não moderadas. As cinco perguntas abertas do pós-teste também foram aplicadas no Maze, de onde as respostas foram retiradas.
 * **Google Meet:** Utilizado para a condução das sessões remotas, permitindo o compartilhamento de tela, a observação do percurso e a comunicação em tempo real.
 * **Google Forms:** Ferramenta escolhida para a aplicação do questionário de caracterização do perfil (pré-teste) e para o formulário de satisfação (pós-teste).
 
@@ -77,12 +77,12 @@ As tabelas abaixo detalham o desempenho individual de cada um dos 8 participante
 
 | Tarefa | Tempo (em segundos) | Resultado da tarefa | Erros | Observações |
 | :--- | :--- | :--- | :--- | :--- |
-| M1: Iniciar simulação | 66 | ! | 3 | Usuário vagou pelas opções erradas por que o site não especificava bem qual ele deveria ir |
+| M1: Iniciar simulação | 66 | ! | 3 | Usuário vagou pelas opções erradas porque o site não especificava bem qual ele deveria ir |
 | M2: Ativar áudio | 10 | X | 1 | Não achou a opção de ativar o áudio e não sabia que existia |
 | M3: Abrir colinha | 43 | ! | 3 | demorou pra entender como a colinha funcionava |
 | M4: Votar Dep. Federal | 23 | ! | 1 | Demorou pra entender que tinha começado |
 | M5: Corrigir Dep. Estadual | 15 | X | 1 | Saiu sem corrigir |
-| M6: Votar em Branco (Senador) | 47| ! | 1 | Demorou pra entender que eram dois senadores |
+| M6: Votar em Branco (Senador) | 47 | ! | 1 | Demorou pra entender que eram dois senadores |
 | M7: Votar Nulo (Governador) | 31 | ! | 0 | Demorou pra entender que o número inserido votaria nulo |
 | M8: Votar Presidente e Fim | 10 | ✓ | 0 | Concluiu a etapa com êxito |
 
@@ -95,7 +95,7 @@ As tabelas abaixo detalham o desempenho individual de cada um dos 8 participante
 | M3: Abrir colinha | 98 | ! | 3 | Conseguiu com muita dificuldade devido a confusão causada dentro do site |
 | M4: Votar Dep. Federal | 142 | ! | 2 | Demorou devido ao carregamento do site |
 | M5: Corrigir Dep. Estadual | 87 | ! | 2 | Conseguiu com dificuldades pois não sabia exatamente aonde clicar |
-| M6: Votar em Branco (Senador) | 53 | ! | 0 | Conseguiu realizar a atividade porem se confundiu com as duas vagas |
+| M6: Votar em Branco (Senador) | 53 | ! | 0 | Conseguiu realizar a atividade porém se confundiu com as duas vagas |
 | M7: Votar Nulo (Governador) | 46 | ! | 1 | Demorou pra entender que o número digitado votaria nulo e tentou corrigir |
 | M8: Votar Presidente e Fim | 21 | ✓ | 0 | Teve êxito na etapa |
 
@@ -132,7 +132,7 @@ As tabelas abaixo detalham o desempenho individual de cada um dos 8 participante
 | M1: Iniciar simulação | 8 | ✓ | 0 | O usuário conseguiu iniciar sem erros |
 | M2: Ativar áudio | 41 | ! | 2 | O usuário teve certa dificuldade para ativar o áudio, mas conseguiu no fim |
 | M3: Abrir colinha | 37 | ✓ | 0 | O usuário abriu a colinha e a preencheu sem dificuldades |
-| M4: Votar Dep. Federal | 43 | ✓ | 0 | O usuário não teve dificuldades porem o site demorou pra carregar |
+| M4: Votar Dep. Federal | 43 | ✓ | 0 | O usuário não teve dificuldades porém o site demorou pra carregar |
 | M5: Corrigir Dep. Estadual | 26 | ! | 1 | O usuário teve um pouco de dificuldade com a correção, mas concluiu |
 | M6: Votar em Branco (Senador) | 12 | ✓ | 0 | O usuário conseguiu sem problemas |
 | M7: Votar Nulo (Governador) | 15 | ✓ | 0 | Entendeu rápido e registrou o voto |
@@ -143,12 +143,12 @@ As tabelas abaixo detalham o desempenho individual de cada um dos 8 participante
 | Tarefa | Tempo (em segundos) | Resultado da tarefa | Erros | Observações |
 | :--- | :--- | :--- | :--- | :--- |
 | M1: Iniciar simulação | 13 | ✓ | 0 | Iniciou sem erros |
-| M2: Ativar áudio | 56 | X | 4 | O usuário procurou e tentou ativar, porem não conseguiu e prosseguiu sem |
+| M2: Ativar áudio | 56 | X | 4 | O usuário procurou e tentou ativar, porém não conseguiu e prosseguiu sem |
 | M3: Abrir colinha | 16 | ! | 1 | Usuário abriu a colinha, porém não a preencheu |
 | M4: Votar Dep. Federal | 24 | ✓ | 0 | O usuário votou sem problemas |
 | M5: Corrigir Dep. Estadual | 28 | ! | 0 | Usuário demorou um pouco pra entender aonde corrigia, mas conseguiu |
 | M6: Votar em Branco (Senador) | 18 | ✓ | 0 | Votou tranquilamente em branco |
-| M7: Votar Nulo (Governador) | 14 | ✓ | 0 | Entendeu rapidamente a mensangem e registrou |
+| M7: Votar Nulo (Governador) | 14 | ✓ | 0 | Entendeu rapidamente a mensagem e registrou |
 | M8: Votar Presidente e Fim | 13 | ✓ | 0 | Registrou o voto sem problemas |
 
 ---
@@ -172,7 +172,7 @@ Esta tabela consolida o desempenho geral de todos os usuários que realizaram o 
 
 ### Consolidação por tarefa
 
-A tabela seguinte apresenta a taxa de sucesso e o tempo médio gasto em cada missão, permitindo identificar quais as etapas do simulador que geraram mais atrito geral.
+A tabela seguinte apresenta a taxa de sucesso e o tempo médio gasto em cada missão, permitindo identificar quais as etapas do simulador que geraram mais atrito geral. O TSR considera como sucesso as tarefas concluídas, com ou sem dificuldade (✓ e !); apenas o X conta como insucesso.
 
 | Tarefa | TSR - Taxa de Sucesso (%) | TTR - Tempo médio da tarefa (s) |
 | :--- | :--- | :--- |
@@ -227,7 +227,7 @@ O UEQ foi aplicado ao final da sessão de cada participante. As respostas de 8 p
 
 Cinco das seis dimensões foram positivas. Eficiência (2,219) e Atratividade (2,188) tiveram as maiores médias, seguidas de Estimulação (1,938) e Perspicuidade (1,750). A Confiabilidade (0,875) foi positiva, mas perto do limite, e a Novidade (0,656) foi a única neutra. A Atratividade teve a menor variância (0,31), o que indica maior concordância entre os participantes.
 
-**Consistência das respostas.** Dois participantes tiveram respostas inconsistentes em três escalas, limite a partir do qual os autores do UEQ sugerem considerar a exclusão dos dados. Como a amostra é pequena, todas as respostas foram mantidas. Novidade (5 participantes) e Confiabilidade (4) tiveram mais respostas inconsistentes e maiores variâncias, por isso suas médias exigem cautela.
+**Consistência das respostas.** Dois participantes tiveram respostas inconsistentes em três escalas, limite a partir do qual os autores do UEQ sugerem considerar a exclusão dos dados. Como a amostra é pequena, todas as respostas foram mantidas. Novidade (5 participantes) e Confiabilidade (4) tiveram mais respostas inconsistentes, por isso suas médias exigem cautela.
 
 ## 3. Análise quantitativa
 
@@ -239,7 +239,7 @@ Entre os gráficos da planilha, foram escolhidos dois, por ajudarem a entender o
 
 *Figura 3 - Médias das dimensões do UEQ (de -3 a +3), com barras de variação. Verde, avaliação positiva; amarelo, neutra; vermelho, negativa. Transparência = Perspicuidade, Controlo = Confiabilidade, Inovação = Novidade.*
 
-O gráfico mostra a média de cada dimensão, com faixas de interpretação ao fundo. Eficiência, Atratividade, Estimulação e Perspicuidade estão claramente na faixa verde. A Confiabilidade (0,875) fica logo acima do limite de 0,8, e a Novidade (0,656) é a única na faixa amarela, com a variação chegando a cerca de zero. A Atratividade tem a menor variação, e Confiabilidade e Novidade, as maiores, o que reforça a cautela com apenas 8 participantes. Em resumo, o simulador foi percebido como eficiente e atraente, com avaliação mais modesta em previsibilidade e originalidade.
+O gráfico mostra a média de cada dimensão, com faixas de interpretação ao fundo. Eficiência, Atratividade, Estimulação e Perspicuidade estão claramente na faixa verde. A Confiabilidade (0,875) fica logo acima do limite de 0,8, e a Novidade (0,656) é a única na faixa amarela, com a variação chegando a cerca de zero. Pelo Quadro 1, a Atratividade tem a menor variância, e Perspicuidade e Confiabilidade, as maiores, o que reforça a cautela com apenas 8 participantes. Em resumo, o simulador foi percebido como eficiente e atraente, com avaliação mais modesta em previsibilidade e originalidade.
 
 ### Gráfico 2 - Médias por item
 
@@ -256,6 +256,8 @@ Os dois gráficos mostram o mesmo panorama: avaliação positiva nas dimensões,
 As respostas às cinco perguntas abertas foram analisadas no ATLAS.ti: leitura das respostas, criação de códigos para os aspectos mencionados e relação desses códigos com as dimensões do UEQ, para verificar como os comentários explicam ou complementam os resultados quantitativos.
 
 ### 4.1 Respostas abertas analisadas
+
+As respostas às cinco perguntas abertas foram retiradas do Maze, onde as perguntas do pós-teste foram aplicadas.
 
 **Quadro 2 - Perguntas abertas aplicadas**
 
@@ -297,15 +299,15 @@ As respostas de cada participante foram importadas como um documento (P01 a P08)
 
 As Figuras 5 e 6 mostram os documentos de dois participantes (P07 e P01) no ATLAS.ti, com os trechos das respostas e os códigos associados na margem.
 
-![Citações codificadas no ATLAS.ti](../imagens/P07.png)
+![Citações codificadas no ATLAS.ti](../imagens/P01.png)
 *Figura 5 - Documento do participante P07 no ATLAS.ti, com os trechos das respostas e os códigos associados na margem.*
 
-![Citações codificadas no ATLAS.ti](../imagens/P01.png)
+![Citações codificadas no ATLAS.ti](../imagens/P07.png)
 *Figura 6 - Documento do participante P01 no ATLAS.ti, com os trechos das respostas e os códigos associados na margem.*
 
 ### 4.3 Códigos identificados
 
-A codificação resultou em 13 códigos (8 positivos e 5 negativos). A Figura 7 mostra a tabela código-documento, e o Quadro 4 resume os códigos por dimensão.
+A codificação resultou em 13 códigos (8 positivos e 5 negativos). A Figura 6 mostra a tabela código-documento, e o Quadro 4 resume os códigos por dimensão.
 
 ![Tabela código-documento no ATLAS.ti](../imagens/Atlas.ti_tabela_CD.png)
 *Figura 7 - Tabela código-documento, com os códigos criados e os participantes que os mencionaram.*
