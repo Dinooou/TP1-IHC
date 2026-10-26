@@ -30,7 +30,7 @@ Equipe reunida remotamente realizando a inspeção.
 
 ---
 
-![Ambiente do Notion que contem as 4 etapas](../imagens/notn.png)
+![Ambiente do Notion que contem as 4 etapas](../imagens/notion.png)
 
 Ambiente do Notion que contem as 4 etapas.
 
