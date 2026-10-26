@@ -23,7 +23,7 @@ O UEQ foi aplicado ao final da sessão de cada participante. As respostas de 8 p
 
 ![Resultado geral do UEQ](../imagens/resultado.png)
 
-*Figura 2 - Médias (primeira coluna) e variâncias (segunda coluna) das dimensões do UEQ. Na ferramenta, Perspicuidade aparece como "Transparência", Confiabilidade como "Controlo" e Novidade como "Inovação".*
+*Figura 1 - Médias (primeira coluna) e variâncias (segunda coluna) das dimensões do UEQ. Na ferramenta, Perspicuidade aparece como "Transparência", Confiabilidade como "Controlo" e Novidade como "Inovação".*
 
 **Quadro 1 - Resultados do UEQ por dimensão**
 
@@ -48,7 +48,7 @@ Entre os gráficos da planilha, foram escolhidos dois, por ajudarem a entender o
 
 ![Gráfico 1](../imagens/grafico1.png)
 
-*Figura 3 - Médias das dimensões do UEQ (de -3 a +3), com barras de variação. Verde, avaliação positiva; amarelo, neutra; vermelho, negativa. Transparência = Perspicuidade, Controlo = Confiabilidade, Inovação = Novidade.*
+*Figura 2 - Médias das dimensões do UEQ (de -3 a +3), com barras de variação. Verde, avaliação positiva; amarelo, neutra; vermelho, negativa. Transparência = Perspicuidade, Controlo = Confiabilidade, Inovação = Novidade.*
 
 O gráfico mostra a média de cada dimensão, com faixas de interpretação ao fundo. Eficiência, Atratividade, Estimulação e Perspicuidade estão claramente na faixa verde. A Confiabilidade (0,875) fica logo acima do limite de 0,8, e a Novidade (0,656) é a única na faixa amarela, com a variação chegando a cerca de zero. Pelo Quadro 1, a Atratividade tem a menor variância, e Perspicuidade e Confiabilidade, as maiores, o que reforça a cautela com apenas 8 participantes. Em resumo, o simulador foi percebido como eficiente e atraente, com avaliação mais modesta em previsibilidade e originalidade.
 
@@ -56,7 +56,7 @@ O gráfico mostra a média de cada dimensão, com faixas de interpretação ao f
 
 ![Gráfico 2](../imagens/grafico2.png)
 
-*Figura 4 - Média de cada item do UEQ (de -3 a +3). Cores por dimensão: roxo, Atratividade; verde, Perspicuidade; azul, Eficiência; ciano, Confiabilidade; vermelho, Estimulação; laranja, Novidade.*
+*Figura 3 - Média de cada item do UEQ (de -3 a +3). Cores por dimensão: roxo, Atratividade; verde, Perspicuidade; azul, Eficiência; ciano, Confiabilidade; vermelho, Estimulação; laranja, Novidade.*
 
 O gráfico mostra a média dos 26 itens. A maior parte ficou no lado positivo, com destaque para "Ineficiente/Eficiente" e "Impraticável/Prático" (cerca de 2,6) e "Incómodo/Cómodo" (2,5). Três pontos destoam. "Imprevisível/Previsível", da Confiabilidade, foi o único item negativo (-1,4), o que indica que o simulador foi percebido como imprevisível em alguns momentos, de acordo com as dificuldades do teste (mensagem do voto nulo, correção e progressão entre etapas). Na Novidade, "Comum/Vanguardista" (-0,3) e "Conservador/Inovador" (0,3) ficaram perto de zero, enquanto "Sem criatividade/Criativo" teve 1,8, o que explica a avaliação neutra, coerente com um simulador que busca reproduzir a urna real.
 
@@ -108,20 +108,20 @@ As respostas de cada participante foram importadas como um documento (P01 a P08)
 | P07 | "A mensagem de voto nulo" | Mensagem de voto nulo pouco clara |
 | P08 | "Corrigir a colinha" | Dificuldade para corrigir na colinha |
 
-As Figuras 5 e 6 mostram os documentos de dois participantes (P07 e P01) no ATLAS.ti, com os trechos das respostas e os códigos associados na margem.
+As Figuras 4 e 5 mostram os documentos de dois participantes (P07 e P01) no ATLAS.ti, com os trechos das respostas e os códigos associados na margem.
 
 ![Citações codificadas no ATLAS.ti](../imagens/P01.png)
-*Figura 5 - Documento do participante P07 no ATLAS.ti, com os trechos das respostas e os códigos associados na margem.*
+*Figura 4 - Documento do participante P01 no ATLAS.ti, com os trechos das respostas e os códigos associados na margem.*
 
 ![Citações codificadas no ATLAS.ti](../imagens/P07.png)
-*Figura 6 - Documento do participante P01 no ATLAS.ti, com os trechos das respostas e os códigos associados na margem.*
+*Figura 5 - Documento do participante P07 no ATLAS.ti, com os trechos das respostas e os códigos associados na margem.*
 
 ### 4.3 Códigos identificados
 
 A codificação resultou em 13 códigos (8 positivos e 5 negativos). A Figura 6 mostra a tabela código-documento, e o Quadro 4 resume os códigos por dimensão.
 
 ![Tabela código-documento no ATLAS.ti](../imagens/Atlas.ti_tabela_CD.png)
-*Figura 7 - Tabela código-documento, com os códigos criados e os participantes que os mencionaram.*
+*Figura 6 - Tabela código-documento, com os códigos criados e os participantes que os mencionaram.*
 
 **Quadro 4 - Códigos identificados, por dimensão do UEQ**
 
@@ -151,7 +151,7 @@ Foi criada uma rede para cada dimensão do UEQ, com um memo central que identifi
 
 ![Rede da dimensão Atratividade](../imagens/Atratividade.png)
 
-*Figura 8 - Rede da dimensão Atratividade.*
+*Figura 7 - Rede da dimensão Atratividade.*
 
 Os dois códigos são positivos. A "Satisfação geral" foi a mais frequente (6 participantes), com respostas como "Tudo" (P06) e "está ótimo" (P01), e P05 destacou a tecla Confirma. Isso converge com o UEQ, em que a Atratividade teve uma das maiores médias (2,188) e a menor variância (0,31).
 
@@ -159,7 +159,7 @@ Os dois códigos são positivos. A "Satisfação geral" foi a mais frequente (6 
 
 ![Rede da dimensão Perspicuidade](../imagens/Perspicuidade.png)
 
-*Figura 9 - Rede da dimensão Perspicuidade.*
+*Figura 8 - Rede da dimensão Perspicuidade.*
 
 É a dimensão com mais códigos (seis). Predominam os positivos: instruções e mensagens claras (5 participantes), facilidade de aprender e entender (4) e nenhuma dificuldade relatada (4). Os negativos foram a pouca intuitividade (P01 e P07), termos confusos sem especificação (P05 e P06) e a mensagem do voto nulo (P07), que combina com a tarefa de votar nulo (M7), concluída com dificuldade por 5 dos 8 participantes. No UEQ, a Perspicuidade também foi positiva (1,750).
 
@@ -167,7 +167,7 @@ Os dois códigos são positivos. A "Satisfação geral" foi a mais frequente (6 
 
 ![Rede da dimensão Eficiência](../imagens/Eficiência.png)
 
-*Figura 10 - Rede da dimensão Eficiência.*
+*Figura 9 - Rede da dimensão Eficiência.*
 
 A rede combina a praticidade e a agilidade (P02, P03 e P04) com a dificuldade de progressão entre etapas, citada por P08 ao falar em "prosseguir depois de um passo" e ao sugerir melhorar a progressão. No UEQ, a Eficiência teve a maior média (2,219).
 
@@ -175,7 +175,7 @@ A rede combina a praticidade e a agilidade (P02, P03 e P04) com a dificuldade de
 
 ![Rede da dimensão Confiabilidade](../imagens/Confiabilidade.png)
 
-*Figura 11 - Rede da dimensão Confiabilidade.*
+*Figura 10 - Rede da dimensão Confiabilidade.*
 
 Todos os participantes disseram que se sentiriam preparados para votar, e quatro destacaram o valor de um treino realista. Como ponto de atenção, P08 apontou dificuldade para corrigir na colinha, o que se relaciona às dificuldades do teste nas tarefas da colinha (M3) e de correção (M5). No UEQ, a Confiabilidade foi positiva, mas no limite (0,875), e o item "Imprevisível/Previsível" teve a única média negativa (-1,4).
 
@@ -183,7 +183,7 @@ Todos os participantes disseram que se sentiriam preparados para votar, e quatro
 
 ![Rede da dimensão Estimulação](../imagens/Estimulação.png)
 
-*Figura 12 - Rede da dimensão Estimulação.*
+*Figura 11 - Rede da dimensão Estimulação.*
 
 Nenhum código foi associado a esta dimensão: nenhuma resposta tratou de diversão, motivação ou empolgação. Como as perguntas abertas eram gerais, isso indica pouca evidência qualitativa, e não uma avaliação negativa. No UEQ, a Estimulação foi positiva (1,938).
 
@@ -191,7 +191,7 @@ Nenhum código foi associado a esta dimensão: nenhuma resposta tratou de divers
 
 ![Rede da dimensão Novidade](../imagens/Novidade.png)
 
-*Figura 13 - Rede da dimensão Novidade.*
+*Figura 12 - Rede da dimensão Novidade.*
 
 Também não houve códigos associados: nenhuma resposta tratou de criatividade ou originalidade. No UEQ, a Novidade teve a menor média (0,656) e foi a única dimensão neutra, o que combina com a ausência de menções.
 
